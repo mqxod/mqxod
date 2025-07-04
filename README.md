@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Developer | MERN Expert | Backend Specialist | Microservices Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Building+Scalable+Backend+Systems;Crafting+Full-Stack+Apps+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A;Optimizing+Performance+and+Security+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Building+Scalable+Backend+Systems;Crafting+Full-Stack+Apps+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A; Optimizing+Performance+and+Security+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
