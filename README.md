@@ -65,7 +65,7 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 
 ## 🚀 Featured Projects
 
-### 🎥 [VideoBackgroundChanger](https://github.com/mqxod) | *Production MVP at CodeKnitters*
+### 🎥 [VideoBackgroundChanger](https://videobackgroundchanger.com) | *Production MVP at CodeKnitters*
 **AI-Powered Real-time Video Processing Platform**
 - 🎯 Architected scalable video processing pipeline handling large files without memory overflow
 - ⚡ Implemented chunked upload system with resume capability & real-time progress tracking
@@ -91,14 +91,6 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 - 🔐 Integrated Clerk OAuth2 for secure authentication
 - 📊 Designed RESTful APIs with MySQL for efficient data management
 - 🔧 **Tech:** Next.js • Node.js • MySQL • Clerk • REST APIs • Charts.js
-
-### 🛒 [E-Commerce API](https://github.com/mqxod) | *Payment Integration System*
-**Enterprise-Grade REST API with Stripe Integration**
-- 💳 Implemented complete payment flow with inventory management & order tracking
-- ⚡ Distributed caching with Redis reducing checkout latency by 40%
-- 🛡️ Robust error handling & retry mechanisms for reliable payment processing
-- 🔧 **Tech:** Node.js • Express.js • PostgreSQL • Redis • Stripe API
-
 ---
 
 ## 🏆 Achievements & Certifications
