@@ -98,7 +98,7 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.hackerrank.com/profile/dev_maqsood_1"><img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a><br/>
+      <a href="https://www.hackerrank.com/profile/maqsoodnasirani1"><img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a><br/>
       <b>Certified Developer</b><br/>
       Node.js • JavaScript • SQL<br/>
       REST APIs • Problem Solving
