@@ -98,19 +98,20 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /><br/>
+      <a href="https://www.hackerrank.com/profile/dev_maqsood_1"><img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a><br/>
       <b>Certified Developer</b><br/>
       Node.js • JavaScript • SQL<br/>
       REST APIs • Problem Solving
     </td>
     <td align="center" width="50%">
-      <a href="https://leetcode.com/u/maqsoodnasirani421\"><img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+      <a href="https://leetcode.com/u/maqsoodnasirani421"><img src="https://img.shields.io/badge/LeetCode-250+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a><br/>
       <b>Active Contributor</b><br/>
       100-Day Streak 🔥<br/>
       DSA Focus
     </td>
   </tr>
 </table>
+
 
 ---
 
