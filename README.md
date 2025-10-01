@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/maqsood-ahmed1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:dev.maqsood.1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/magsoodnasirani421"><img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/maqsoodnasirani421\"><img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
