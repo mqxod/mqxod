@@ -75,16 +75,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maqsood421&theme=gruvbox&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mqxod&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maqsood421&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mqxod&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqsood421&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maqsood421&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mqxod&theme=tokyonight" />
 </p>
 
 ---
