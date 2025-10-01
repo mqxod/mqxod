@@ -85,12 +85,6 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 - ☸️ Containerized with Docker & orchestrated with Kubernetes for independent scaling
 - 🔧 **Tech:** Node.js • Express.js • React • Docker • Kubernetes • Event Bus
 
-### 💰 [FinVault](https://github.com/mqxod/finvault) | *Personal Finance Tracker*
-**Modern Full-Stack Financial Management Application**
-- 🎯 Built comprehensive budget tracking with insightful charts and analytics
-- 🔐 Integrated Clerk OAuth2 for secure authentication
-- 📊 Designed RESTful APIs with MySQL for efficient data management
-- 🔧 **Tech:** Next.js • Node.js • MySQL • Clerk • REST APIs • Charts.js
 ---
 
 ## 🏆 Achievements & Certifications
