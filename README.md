@@ -104,7 +104,7 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
       REST APIs • Problem Solving
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/LeetCode-250+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /><br/>
+      <a href="https://leetcode.com/u/maqsoodnasirani421\"><img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
       <b>Active Contributor</b><br/>
       100-Day Streak 🔥<br/>
       DSA Focus
