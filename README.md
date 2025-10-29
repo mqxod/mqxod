@@ -65,6 +65,12 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 
 ## 🚀 Featured Projects
 
+### ⌨️ [TypeCert](https://github.com/mqxod/typecert) | *Certificate Generation Platform*
+**Automated Certificate Creation & Distribution System**
+- 🎯 Built full-stack platform for bulk certificate generation with customizable templates
+- ⚡ Implemented automated email delivery system with PDF generation & tracking
+- 🔧 **Tech:**  React • TypeScript • PDF-lib  • Framer-motion 
+
 ### 🎥 [VideoBackgroundChanger](https://videobackgroundchanger.com) | *Production MVP at CodeKnitters*
 **AI-Powered Real-time Video Processing Platform**
 - 🎯 Architected scalable video processing pipeline handling large files without memory overflow
