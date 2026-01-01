@@ -18,7 +18,7 @@
 
 ## 💼 Professional Summary
 
-**Full-Stack Developer** at CodeKnitters | **2+ years** of experience building scalable, production-grade applications
+**Full-Stack Developer** with **2+ years** of experience building scalable, production-grade applications
 
 ```typescript
 const maqsood = {
