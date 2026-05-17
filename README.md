@@ -1,35 +1,38 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Maqsood+Ahmed;Full-Stack+Developer;Backend+Specialist;Microservices+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Maqsood+Ahmed;Co-Founder+%26+CTO+%40+Evneto;Full-Stack+Developer;Microservices+Architect" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend_Development-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-MERN_Stack-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-Full_Stack_Developer-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Co--Founder_%26_CTO-00D9FF?style=for-the-badge" />
+    <a href="https://evneto.com"><img src="https://img.shields.io/badge/Company-Evneto-00D9FF?style=for-the-badge" /></a>
+  <!-- <img src="https://img.shields.io/badge/Stack-MERN_%7C_TypeScript_%7C_Go-00D9FF?style=for-the-badge" /> -->
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/maqsood-ahmed1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:dev.maqsood.1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/maqsoodnasirani421\"><img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <!-- <a href="mailto:dev.maqsood.1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+  <!-- <a href="https://maqsood-dev.online"><img src="https://img.shields.io/badge/Portfolio-maqsood--dev.online-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+  <a href="https://leetcode.com/u/maqsoodnasirani421"><img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💼 Professional Summary
+## 💼 About Me
 
-**Full-Stack Developer** with **2+ years** of experience building scalable, production-grade applications
+**Co-Founder & CTO** building systems that scale — not features that just work.
 
 ```typescript
 const maqsood = {
-    location: "Islamabad, Pakistan",
-    role: "Full Stack Developer",
-    education: "BS Computer Science @ Iqra University (CGPA: 3.70/4.00)",
-    specialization: ["Backend Architecture", "Microservices", "Real-time Systems"],
-    currentlyWorking: "MERN Stack applications with Dockerized CI/CD pipelines",
-    openTo: "Backend & Full-Stack opportunities with challenging technical problems"
+    location:        "Islamabad, Pakistan",
+    role:            "Co-Founder & CTO @ Evneto",
+    education:       "BS Computer Science @ Iqra University (CGPA: 3.71/4.00)",
+    focus:           ["Distributed Systems", "Real-time Infrastructure", "AI-driven Products"],
+    approach:        "Eliminate bottlenecks before they exist",
+    openTo:          "Backend & Full-Stack opportunities with challenging technical problems"
 };
 ```
+
+> *I architect and lead the engineering of Evneto — where backend systems, real-time infrastructure, and AI-driven product experiences converge. My engineering philosophy: architecture directly defines business velocity.*
 
 ---
 
@@ -37,7 +40,7 @@ const maqsood = {
 
 ### **Core Expertise**
 ```yaml
-Backend:        Node.js • Express.js • TypeScript • RESTful APIs • GraphQL
+Backend:        Node.js • Express.js • TypeScript • Go • RESTful APIs • GraphQL
 Frontend:       React • Next.js • Tailwind CSS • Responsive Design
 Databases:      MongoDB • PostgreSQL • Redis • Query Optimization
 DevOps:         Docker • Kubernetes • GitHub Actions • CI/CD Pipelines
@@ -48,7 +51,7 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 ### **Languages & Technologies**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,mongodb,postgres,redis,docker,kubernetes,git,github,tailwind,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,express,react,nextjs,mongodb,postgres,redis,docker,kubernetes,git,github,tailwind,cpp,java,python" />
 </p>
 
 <p align="center">
@@ -63,33 +66,32 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 
 ---
 
-## 🚀 Featured Projects
+## 💡 What I Bring to the Table
 
-### ⌨️ [TypeCert](https://typingcertificate.online) | *Certificate Generation Platform*
-**Automated Certificate Creation & Distribution System**
-- 🎯 Built full-stack platform for bulk certificate generation with customizable templates
-- ⚡ Implemented automated email delivery system with PDF generation & tracking
-- 🔧 **Tech:**  React • TypeScript • PDF-lib  • Framer-motion 
-
-### 🎥 [VideoBackgroundChanger](https://videobackgroundchanger.com) | *Production MVP at CodeKnitters*
-**AI-Powered Real-time Video Processing Platform**
-- 🎯 Architected scalable video processing pipeline handling large files without memory overflow
-- ⚡ Implemented chunked upload system with resume capability & real-time progress tracking
-- 🔧 **Tech:** Node.js • React • FFmpeg • AWS S3 • Stream Processing
-
-### 💬 [IMS-Connect](https://github.com/mqxod/IMS-Connect-fullstack-website) | *Real-Time Collaboration Platform*
-**Full-Stack MERN Application with WebSocket Integration**
-- 🎯 Built real-time idea submission, voting, and chat system serving multiple concurrent users
-- 🛡️ Implemented JWT refresh token rotation & rate-limiting for enhanced security
-- 📊 Achieved **95+ Lighthouse score** with optimized performance
-- 🔧 **Tech:** Node.js • React • MongoDB • WebSockets • Docker • CI/CD
-
-### 🏗️ [Microservices Blogging Platform](https://github.com/mqxod/Microservices-App) | *Event-Driven Architecture*
-**Distributed System with Custom Pub/Sub Implementation**
-- 🎯 Designed event-driven architecture with dedicated services (Posts, Comments, Moderation)
-- 🔄 Built custom event bus enabling real-time updates across distributed services
-- ☸️ Containerized with Docker & orchestrated with Kubernetes for independent scaling
-- 🔧 **Tech:** Node.js • Express.js • React • Docker • Kubernetes • Event Bus
+```javascript
+const expertise = {
+    architecture: [
+        "Designing scalable microservices & distributed system architectures",
+        "Building event-driven systems with custom pub/sub implementations",
+        "Leading technical vision and engineering strategy as CTO"
+    ],
+    performance: [
+        "Database query optimization with compound indexes",
+        "Redis caching strategies for 40%+ performance gains",
+        "Stream-based processing for handling large data files"
+    ],
+    security: [
+        "OAuth 2.0 & JWT authentication systems",
+        "Role-based access control (RBAC) implementation",
+        "Rate limiting & request validation middleware"
+    ],
+    leadership: [
+        "Building and managing cross-functional engineering teams",
+        "Technical roadmap planning and product architecture decisions",
+        "Code reviews, mentoring, and technical documentation"
+    ]
+};
+```
 
 ---
 
@@ -97,13 +99,19 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Hackathon-Winner-gold?style=for-the-badge&logo=devpost&logoColor=white" /><br/>
+      <b>Innovative Minds Hackathon</b><br/>
+      1st Place — 102 Participants<br/>
+      Hosted on Devpost
+    </td>
+    <td align="center" width="33%">
       <a href="https://www.hackerrank.com/profile/maqsoodnasirani1"><img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a><br/>
       <b>Certified Developer</b><br/>
       Node.js • JavaScript • SQL<br/>
       REST APIs • Problem Solving
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://leetcode.com/u/maqsoodnasirani421"><img src="https://img.shields.io/badge/LeetCode-250+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a><br/>
       <b>Active Contributor</b><br/>
       100-Day Streak 🔥<br/>
@@ -111,7 +119,6 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -132,40 +139,11 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 
 ---
 
-## 💡 What I Bring to the Table
-
-```javascript
-const expertise = {
-    architecture: [
-        "Designing scalable microservices architectures",
-        "Building event-driven systems with custom pub/sub",
-        "Implementing CI/CD pipelines with Docker & Kubernetes"
-    ],
-    performance: [
-        "Database query optimization with compound indexes",
-        "Redis caching strategies for 40%+ performance gains",
-        "Stream-based processing for handling large data files"
-    ],
-    security: [
-        "OAuth 2.0 & JWT authentication systems",
-        "Role-based access control (RBAC) implementation",
-        "Rate limiting & request validation middleware"
-    ],
-    collaboration: [
-        "Working in cross-functional teams with designers",
-        "Code reviews and mentoring junior developers",
-        "Technical documentation and API specifications"
-    ]
-};
-```
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
-  <b>Open to discussing Full-Stack & Backend opportunities</b><br/>
-  Specialized in building scalable, production-grade applications
+  <b>Open to discussing Full-Stack, Backend & CTO-level technical opportunities</b><br/>
+  Building scalable, production-grade systems at the intersection of architecture and product
 </p>
 
 <p align="center">
@@ -187,7 +165,7 @@ const expertise = {
 </p>
 
 <p align="center">
-  <i>"Building robust systems that scale, perform, and delight users"</i> 💻✨
+  <i>"Building systems that scale — not features that just work."</i> 💻✨
 </p>
 
 <p align="center">
