@@ -1,17 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Maqsood+Ahmed;Co-Founder+%26+CTO+%40+Evneto;Full-Stack+Developer;Microservices+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Maqsood+Ahmed;Full+Stack+Engineer+%40+Code+Knitters;C%2B%2B+%26+Go+Engineer+%40+SME+Careers;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Co--Founder_%26_CTO-00D9FF?style=for-the-badge" />
-    <a href="https://evneto.com"><img src="https://img.shields.io/badge/Company-Evneto-00D9FF?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Engineer-00D9FF?style=for-the-badge" />
+  <a href="https://personal-portfolio-smoky-six-14.vercel.app"><img src="https://img.shields.io/badge/Portfolio-maqsood--dev.online-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <!-- <img src="https://img.shields.io/badge/Stack-MERN_%7C_TypeScript_%7C_Go-00D9FF?style=for-the-badge" /> -->
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/maqsood-ahmed1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <!-- <a href="mailto:dev.maqsood.1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-  <!-- <a href="https://maqsood-dev.online"><img src="https://img.shields.io/badge/Portfolio-maqsood--dev.online-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+  <a href="mailto:dev.maqsood.1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/maqsoodnasirani421"><img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
@@ -19,20 +18,20 @@
 
 ## 💼 About Me
 
-**Co-Founder & CTO** building systems that scale — not features that just work.
+**Full Stack Engineer** building production systems that ship — not portfolio pieces that just demo.
 
 ```typescript
 const maqsood = {
     location:        "Islamabad, Pakistan",
-    role:            "Co-Founder & CTO @ Evneto",
-    education:       "BS Computer Science @ Iqra University (CGPA: 3.71/4.00)",
-    focus:           ["Distributed Systems", "Real-time Infrastructure", "AI-driven Products"],
-    approach:        "Eliminate bottlenecks before they exist",
-    openTo:          "Backend & Full-Stack opportunities with challenging technical problems"
+    role:            "Full Stack Engineer @ Code Knitters | C++ Engineer @ SME Careers",
+    education:       "BS Computer Science @ Iqra University (CGPA: 3.70/4.00)",
+    focus:           ["Full-Stack Web Development", "Systems Programming (C++/Go)", "AI-Driven Products"],
+    approach:        "Ship production-ready features, not just working demos",
+    openTo:          "Full-Stack & Backend opportunities with challenging technical problems"
 };
 ```
 
-> *I architect and lead the engineering of Evneto — where backend systems, real-time infrastructure, and AI-driven product experiences converge. My engineering philosophy: architecture directly defines business velocity.*
+> *I build end-to-end products — from MVPs shipped at Code Knitters to AI-powered creative tools used by real users. My engineering philosophy: a feature isn't done until it's in production and holding up under real traffic.*
 
 ---
 
@@ -40,22 +39,21 @@ const maqsood = {
 
 ### **Core Expertise**
 ```yaml
-Backend:        Node.js • Express.js • TypeScript • Go • RESTful APIs • GraphQL
+Backend:        Node.js • Express.js • TypeScript • Go • C++ • RESTful APIs
 Frontend:       React • Next.js • Tailwind CSS • Responsive Design
 Databases:      MongoDB • PostgreSQL • Redis • Query Optimization
-DevOps:         Docker • Kubernetes • GitHub Actions • CI/CD Pipelines
+DevOps:         Docker • GitHub Actions • CI/CD Pipelines
 Authentication: JWT • OAuth 2.0 • Clerk • RBAC
-Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
+Real-time:      WebSockets • Event-Driven Architecture
 ```
 
 ### **Languages & Technologies**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,express,react,nextjs,mongodb,postgres,redis,docker,kubernetes,git,github,tailwind,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,express,react,nextjs,mongodb,postgres,redis,docker,git,github,tailwind,cpp,java,python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
@@ -66,30 +64,70 @@ Real-time:      WebSockets • Event-Driven Architecture • Pub/Sub Systems
 
 ---
 
-## 💡 What I Bring to the Table
+## 🚀 Production Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://playgroundart.ai"><img src="https://img.shields.io/badge/Live_Product-Playground_AI-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a><br/><br/>
+      <b>AI Image & Video Generation Platform</b><br/><br/>
+      An AI creative studio offering text-to-image and text-to-video generation through models like GPT-Image, PixVerse, FLUX, and Nano Banana — plus editing tools such as background removal, upscaling, face fix, virtual try-on, style transfer, and cinematic angle generation. Trusted by 50,000+ creators.<br/><br/>
+      <sub>Next.js • AI Model Integrations • Image/Video Pipelines</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://videobackgroundchanger.com"><img src="https://img.shields.io/badge/Live_Product-Video_Background_Changer-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a><br/><br/>
+      <b>AI Video Background Remover & Changer</b><br/><br/>
+      An online AI tool to remove or replace video backgrounds without a green screen — supporting custom color, image, and video backgrounds up to 2K resolution, with web, Android, and iOS apps. Used by 100k+ creators and enterprise clients including ByteDance and Motorola.<br/><br/>
+      <sub>Next.js • Video Processing • Cross-Platform Apps</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
 
 ```javascript
-const expertise = {
-    architecture: [
-        "Designing scalable microservices & distributed system architectures",
-        "Building event-driven systems with custom pub/sub implementations",
-        "Leading technical vision and engineering strategy as CTO"
-    ],
-    performance: [
-        "Database query optimization with compound indexes",
-        "Redis caching strategies for 40%+ performance gains",
-        "Stream-based processing for handling large data files"
-    ],
-    security: [
-        "OAuth 2.0 & JWT authentication systems",
-        "Role-based access control (RBAC) implementation",
-        "Rate limiting & request validation middleware"
-    ],
-    leadership: [
-        "Building and managing cross-functional engineering teams",
-        "Technical roadmap planning and product architecture decisions",
-        "Code reviews, mentoring, and technical documentation"
-    ]
+const experience = {
+    codeKnitters: {
+        role: "Full Stack Engineer (Part-time)",
+        duration: "Oct 2025 - Present",
+        highlights: [
+            "Led end-to-end development of the company's MVP, translating product requirements into a scalable, production-ready web app",
+            "Built full-stack features using Next.js, React, Node.js, and TypeScript",
+            "Designed secure APIs, integrated third-party services, optimized performance & scalability",
+            "Shipped production AI products: Playground AI & Video Background Changer"
+        ]
+    },
+    codeKnittersInternship: {
+        role: "Full-Stack Developer (Internship)",
+        duration: "Jul 2025 - Sep 2025",
+        highlights: [
+            "Developed & maintained scalable full-stack web apps using the MERN stack",
+            "Designed and integrated RESTful APIs, optimized database performance",
+            "Collaborated cross-functionally on production-ready features and deployments"
+        ]
+    },
+    smeCareers: {
+        role: "Full Stack / C++ Engineer",
+        duration: "Aug 2025 - Present",
+        highlights: [
+            "Evaluate AI-generated full-stack solutions (Node.js, React, TypeScript, C++) for correctness, security, and scalability",
+            "Review system designs, APIs, database models, authentication flows, and architecture",
+            "Develop reference implementations to improve AI model performance"
+        ]
+    },
+    freelance: {
+        platforms: ["Upwork", "Fiverr"],
+        duration: "Jan 2023 - Present",
+        highlights: [
+            "Delivered 10+ scalable web applications for international clients",
+            "Built auth systems, real-time chat, dashboards, and payment integrations",
+            "Optimized Node.js services for 10k+ requests/min, cut API latency by 35% with Redis caching",
+            "Improved MongoDB performance by 40% via indexing & schema design",
+            "5-star ratings and repeat contracts across both platforms"
+        ]
+    }
 };
 ```
 
@@ -142,8 +180,8 @@ const expertise = {
 ## 📫 Let's Connect
 
 <p align="center">
-  <b>Open to discussing Full-Stack, Backend & CTO-level technical opportunities</b><br/>
-  Building scalable, production-grade systems at the intersection of architecture and product
+  <b>Open to discussing Full-Stack, Backend & C++/Go technical opportunities</b><br/>
+  Building scalable, production-grade systems from MVP to launch
 </p>
 
 <p align="center">
@@ -153,8 +191,8 @@ const expertise = {
   <a href="https://linkedin.com/in/maqsood-ahmed1">
     <img src="https://img.shields.io/badge/LinkedIn-Maqsood_Ahmed-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="tel:+923252770421">
-    <img src="https://img.shields.io/badge/Phone-%2B92_325_2770421-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://maqsood-dev.online">
+    <img src="https://img.shields.io/badge/Portfolio-maqsood--dev.online-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -165,7 +203,7 @@ const expertise = {
 </p>
 
 <p align="center">
-  <i>"Building systems that scale — not features that just work."</i> 💻✨
+  <i>"Ship it, measure it, improve it."</i> 💻✨
 </p>
 
 <p align="center">
